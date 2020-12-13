@@ -1,3 +1,2 @@
 # E-commerce
-#Change happened
-amaan and rajat
+This is the e-commerce website. 
